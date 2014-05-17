@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: cus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-17 15:06+0900\n"
-"PO-Revision-Date: 2014-05-17 22:35+0900\n"
+"PO-Revision-Date: 2014-05-17 23:18+0900\n"
 "Last-Translator: \n"
 "Language-Team: ja <jotaki@digitalcube.jp>\n"
 "Language: ja_JP\n"
@@ -17,12 +17,10 @@ msgstr ""
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../custom-post-type-ui.php:56
-#, fuzzy
 msgid "Custom Post Types"
 msgstr "Custom Post Types UI"
 
 #: ../custom-post-type-ui.php:56
-#, fuzzy
 msgid "CPT UI"
 msgstr "CPT UI"
 
@@ -31,32 +29,26 @@ msgid "Add New"
 msgstr "新規追加"
 
 #: ../custom-post-type-ui.php:60
-#, fuzzy
 msgid "Manage Post Types"
 msgstr "カスタム投稿タイプの管理"
 
 #: ../custom-post-type-ui.php:61
-#, fuzzy
 msgid "Manage Taxonomies"
 msgstr "カスタム分類の管理"
 
 #: ../custom-post-type-ui.php:509 ../custom-post-type-ui.php:1677
-#, fuzzy
 msgid "Custom Post Type UI"
 msgstr "Custom Post Type UI"
 
 #: ../custom-post-type-ui.php:509 ../custom-post-type-ui.php:1677
-#, fuzzy
 msgid "version"
 msgstr "プラグインバージョン"
 
 #: ../custom-post-type-ui.php:511
-#, fuzzy
 msgid "Frequently Asked Questions"
 msgstr "よくある質"
 
 #: ../custom-post-type-ui.php:512
-#, fuzzy
 msgid ""
 "Please note that this plugin will NOT handle display of registered post "
 "types or taxonomies in your current theme. It will simply register them for "
@@ -67,7 +59,6 @@ msgstr ""
 "投稿タイプや分類を登録するためのプラグインです。"
 
 #: ../custom-post-type-ui.php:513
-#, fuzzy
 msgid ""
 "Q: <strong>How can I display content from a custom post type on my website?</"
 "strong>"
@@ -86,7 +77,6 @@ msgstr ""
 "を表示する方法)"
 
 #: ../custom-post-type-ui.php:517
-#, fuzzy
 msgid "Custom Post Types in WordPress"
 msgstr "Custom Post Types UI in WordPress（WPのカスタム投稿タイプについて）"
 
@@ -122,7 +112,6 @@ msgstr ""
 "使ってみてください。"
 
 #: ../custom-post-type-ui.php:527
-#, fuzzy
 msgid "Help Support This Plugin!"
 msgstr "このプラグインを応援しましょう！"
 
@@ -170,7 +159,6 @@ msgid "Manage Custom Post Types"
 msgstr "カスタム投稿タイプの管理"
 
 #: ../custom-post-type-ui.php:587
-#, fuzzy
 msgid ""
 "Deleting custom post types will <strong>NOT</strong> delete any content into "
 "the database or added to those post types.  You can easily recreate your "
@@ -245,7 +233,6 @@ msgid "Supports"
 msgstr "サポート"
 
 #: ../custom-post-type-ui.php:640 ../custom-post-type-ui.php:923
-#, fuzzy
 msgid "Delete"
 msgstr "削除"
 
@@ -259,7 +246,6 @@ msgid "Get Code"
 msgstr "コー​​ドを取得する"
 
 #: ../custom-post-type-ui.php:770
-#, fuzzy
 msgid ""
 "Place the below code in your themes functions.php file to manually create "
 "this custom post type."
@@ -293,7 +279,6 @@ msgid "Query Var"
 msgstr "Query Var"
 
 #: ../custom-post-type-ui.php:846
-#, fuzzy
 msgid "No additional post types found"
 msgstr "追加されたカスタム投稿タイプは見つかりません。"
 
@@ -338,17 +323,14 @@ msgid ""
 msgstr "これは<strong>BETA</strong> の機能です。<"
 
 #: ../custom-post-type-ui.php:1061
-#, fuzzy
 msgid "Save Custom Post Type"
 msgstr "カスタム投稿タイプを保存"
 
 #: ../custom-post-type-ui.php:1063
-#, fuzzy
 msgid "Create Custom Post Type"
 msgstr "カスタム投稿タイプを作成"
 
 #: ../custom-post-type-ui.php:1089
-#, fuzzy
 msgid "Save Custom Taxonomy"
 msgstr "カスタム分類を保存"
 
@@ -357,7 +339,6 @@ msgid "Create Custom Taxonomy"
 msgstr "カスタム分類を作成"
 
 #: ../custom-post-type-ui.php:1108
-#, fuzzy
 msgid ""
 "Custom post type created successfully. You may need to refresh to view the "
 "new post type in the admin menu."
@@ -366,12 +347,10 @@ msgstr ""
 "込みする必要があるかもしれません。"
 
 #: ../custom-post-type-ui.php:1109
-#, fuzzy
 msgid "Manage custom post types"
 msgstr "カスタム投稿タイプの管理"
 
 #: ../custom-post-type-ui.php:1111
-#, fuzzy
 msgid ""
 "Custom taxonomy created successfully.  You may need to refresh to view the "
 "new taxonomy in the admin menu."
@@ -380,7 +359,6 @@ msgstr ""
 "があるかもしれません。"
 
 #: ../custom-post-type-ui.php:1112
-#, fuzzy
 msgid "Manage custom taxonomies"
 msgstr "カスタム分類の管理"
 
@@ -407,7 +385,6 @@ msgid "Please doe not use quotes in your taxonomy slug or rewrite slug."
 msgstr "分類スラッグもしくはリライトスラッグに引用符を使用しないでください"
 
 #: ../custom-post-type-ui.php:1143
-#, fuzzy
 msgid "Edit Custom Post Type or Taxonomy"
 msgstr "カスタム投稿タイプもしくは分類を編集"
 
@@ -416,12 +393,10 @@ msgid "Reset"
 msgstr "リセット"
 
 #: ../custom-post-type-ui.php:1150
-#, fuzzy
 msgid "Create New Custom Post Type or Taxonomy"
 msgstr "カスタム投稿タイプもしくは分類を作成"
 
 #: ../custom-post-type-ui.php:1162
-#, fuzzy
 msgid ""
 "If you are unfamiliar with the options below only fill out the <strong>Post "
 "Type Name</strong> and <strong>Label</strong> fields and check which meta "
@@ -462,17 +437,14 @@ msgid "Description"
 msgstr "説明"
 
 #: ../custom-post-type-ui.php:1199 ../custom-post-type-ui.php:1509
-#, fuzzy
 msgid "Advanced Label Options"
 msgstr "詳細ラベル設定を表示する"
 
 #: ../custom-post-type-ui.php:1200 ../custom-post-type-ui.php:1510
-#, fuzzy
 msgid "Advanced Options"
 msgstr "詳細設定を表示する"
 
 #: ../custom-post-type-ui.php:1208
-#, fuzzy
 msgid ""
 "Below are the advanced label options for custom post types.  If you are "
 "unfamiliar with these labels, leave them blank and the plugin will "
@@ -483,7 +455,6 @@ msgstr ""
 "ます。"
 
 #: ../custom-post-type-ui.php:1212
-#, fuzzy
 msgid "Menu Name"
 msgstr "メニュー名"
 
@@ -492,7 +463,6 @@ msgid "(e.g. My Movies)"
 msgstr "（例：映画一覧）"
 
 #: ../custom-post-type-ui.php:1220
-#, fuzzy
 msgid "(e.g. Add New)"
 msgstr "（例：新規追加）"
 
@@ -501,12 +471,10 @@ msgid "Add New Item"
 msgstr "新規項目追加"
 
 #: ../custom-post-type-ui.php:1226
-#, fuzzy
 msgid "(e.g. Add New Movie)"
 msgstr "(例：映画を新規追加)"
 
 #: ../custom-post-type-ui.php:1232
-#, fuzzy
 msgid "(e.g. Edit)"
 msgstr "(例：編集)"
 
@@ -515,7 +483,6 @@ msgid "Edit Item"
 msgstr "項目を編集"
 
 #: ../custom-post-type-ui.php:1238
-#, fuzzy
 msgid "(e.g. Edit Movie)"
 msgstr "(例：映画を編集)"
 
@@ -524,7 +491,6 @@ msgid "New Item"
 msgstr "新規項目"
 
 #: ../custom-post-type-ui.php:1244
-#, fuzzy
 msgid "(e.g. New Movie)"
 msgstr "(例：新規映画)"
 
@@ -533,7 +499,6 @@ msgid "View"
 msgstr "表示"
 
 #: ../custom-post-type-ui.php:1250 ../custom-post-type-ui.php:1256
-#, fuzzy
 msgid "(e.g. View Movie)"
 msgstr "(例：映画を表示)"
 
@@ -546,7 +511,6 @@ msgid "Search Items"
 msgstr "項目検索"
 
 #: ../custom-post-type-ui.php:1262
-#, fuzzy
 msgid "(e.g. Search Movies)"
 msgstr "（例：映画を検索）"
 
@@ -555,7 +519,6 @@ msgid "Not Found"
 msgstr "見つかりません"
 
 #: ../custom-post-type-ui.php:1268
-#, fuzzy
 msgid "(e.g. No Movies Found)"
 msgstr "(例：映画が見つかりません)"
 
@@ -564,7 +527,6 @@ msgid "Not Found in Trash"
 msgstr "ゴミ箱にはありません。"
 
 #: ../custom-post-type-ui.php:1274
-#, fuzzy
 msgid "(e.g. No Movies found in Trash)"
 msgstr "(例：ゴミ箱には映画がありません。)"
 
@@ -573,7 +535,6 @@ msgid "Parent"
 msgstr "親"
 
 #: ../custom-post-type-ui.php:1280
-#, fuzzy
 msgid "(e.g. Parent Movie)"
 msgstr "(例：親映画)"
 
@@ -615,7 +576,6 @@ msgid "(default: False)"
 msgstr "（デフォルト：False）"
 
 #: ../custom-post-type-ui.php:1319
-#, fuzzy
 msgid "Exclude From Search"
 msgstr "検索から除く"
 
@@ -628,7 +588,6 @@ msgid "Custom Rewrite Slug"
 msgstr "カスタムリライトスラッグ"
 
 #: ../custom-post-type-ui.php:1355
-#, fuzzy
 msgid "(default: post type name)"
 msgstr "（デフォルト：投稿タイプ名）"
 
@@ -651,7 +610,6 @@ msgstr ""
 "照してください。 5から100の範囲内で"
 
 #: ../custom-post-type-ui.php:1386
-#, fuzzy
 msgid "Show in Menu"
 msgstr "メニューで表示"
 
@@ -665,7 +623,6 @@ msgstr ""
 "ニューになります。"
 
 #: ../custom-post-type-ui.php:1399
-#, fuzzy
 msgid "Menu Icon"
 msgstr "メニューのアイコン"
 
@@ -674,7 +631,6 @@ msgid "Title"
 msgstr "タイトル"
 
 #: ../custom-post-type-ui.php:1408
-#, fuzzy
 msgid "Editor"
 msgstr "編集者"
 
@@ -687,7 +643,6 @@ msgid "Trackbacks"
 msgstr "トラックバック"
 
 #: ../custom-post-type-ui.php:1411
-#, fuzzy
 msgid "Custom Fields"
 msgstr "カスタムフィールド"
 
@@ -712,7 +667,6 @@ msgid "Page Attributes"
 msgstr "ページ属性"
 
 #: ../custom-post-type-ui.php:1417
-#, fuzzy
 msgid "Post Formats"
 msgstr "投稿フォーマット"
 
@@ -721,7 +675,6 @@ msgid "Built-in Taxonomies"
 msgstr "ビルトイン分類"
 
 #: ../custom-post-type-ui.php:1455
-#, fuzzy
 msgid ""
 "If you are unfamiliar with the options below only fill out the "
 "<strong>Taxonomy Name</strong> and <strong>Post Type Name</strong> fields.  "
@@ -789,7 +742,6 @@ msgstr ""
 "らなければ、入力したカスタム分類名をもとに自動的にラベルを作成します。"
 
 #: ../custom-post-type-ui.php:1523
-#, fuzzy
 msgid "(e.g. Search Actors)"
 msgstr "（例：俳優を検索）"
 
@@ -798,7 +750,6 @@ msgid "Popular Items"
 msgstr "よく利用されている項目"
 
 #: ../custom-post-type-ui.php:1529
-#, fuzzy
 msgid "(e.g. Popular Actors)"
 msgstr "（例：よく利用されている俳優）"
 
@@ -807,7 +758,6 @@ msgid "All Items"
 msgstr "すべての項目"
 
 #: ../custom-post-type-ui.php:1535
-#, fuzzy
 msgid "(e.g. All Actors)"
 msgstr "（例：すべての俳優）"
 
@@ -816,7 +766,6 @@ msgid "Parent Item"
 msgstr "親項目"
 
 #: ../custom-post-type-ui.php:1541
-#, fuzzy
 msgid "(e.g. Parent Actor)"
 msgstr "(例：親俳優)"
 
@@ -825,12 +774,10 @@ msgid "Parent Item Colon"
 msgstr "親項目コロン"
 
 #: ../custom-post-type-ui.php:1547
-#, fuzzy
 msgid "(e.g. Parent Actor:)"
 msgstr "(例：親俳優：)"
 
 #: ../custom-post-type-ui.php:1553
-#, fuzzy
 msgid "(e.g. Edit Actor)"
 msgstr "(例：俳優を編集)"
 
@@ -839,12 +786,10 @@ msgid "Update Item"
 msgstr "項目を更新"
 
 #: ../custom-post-type-ui.php:1559
-#, fuzzy
 msgid "(e.g. Update Actor)"
 msgstr "(例：俳優を更新)"
 
 #: ../custom-post-type-ui.php:1565
-#, fuzzy
 msgid "(e.g. Add New Actor)"
 msgstr "(例：俳優を新規追加)"
 
@@ -853,7 +798,6 @@ msgid "New Item Name"
 msgstr "新規項目名"
 
 #: ../custom-post-type-ui.php:1571
-#, fuzzy
 msgid "(e.g. New Actor Name)"
 msgstr "(例：新規俳優名)"
 
@@ -862,7 +806,6 @@ msgid "Separate Items with Commas"
 msgstr "項目が複数ある場合はコンマで区切ってください。"
 
 #: ../custom-post-type-ui.php:1577
-#, fuzzy
 msgid "(e.g. Separate actors with commas)"
 msgstr "(例：俳優が数名いる場合はコンマで区切ってください。)"
 
@@ -871,7 +814,6 @@ msgid "Add or Remove Items"
 msgstr "項目の追加もしくは削除"
 
 #: ../custom-post-type-ui.php:1583
-#, fuzzy
 msgid "(e.g. Add or remove actors)"
 msgstr "(例：俳優を追加もしくは削除)"
 
@@ -880,17 +822,14 @@ msgid "Choose From Most Used"
 msgstr "最もよく使われているものから選択"
 
 #: ../custom-post-type-ui.php:1589
-#, fuzzy
 msgid "(e.g. Choose from the most used actors)"
 msgstr "(例：最もよく使われている俳優から選択)"
 
 #: ../custom-post-type-ui.php:1638
-#, fuzzy
 msgid "(default: taxonomy name)"
 msgstr "（デフォルト：分類名）"
 
 #: ../custom-post-type-ui.php:1643
-#, fuzzy
 msgid "Show Admin Column"
 msgstr "管理画面の列に表示"
 
